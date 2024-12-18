@@ -109,7 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React**: For providing a powerful and declarative way to build user interfaces.
 - **JavaScript**: For powering the app’s logic and interaction.
 - **CSS**: For styling the app in a simple and maintainable way.
-
----
-
-This README provides an overview of the Todo app, setup instructions, and how to use it. Let me know if you need any modifications or if you'd like to add more specific details!
